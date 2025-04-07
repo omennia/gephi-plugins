@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: Directed Ego Network Plugin
+OpenIDE-Module-Short-Description: Directed Ego Network filter for Gephi
+OpenIDE-Module-Long-Description: This plugin provides a directed ego network filter for Gephi, also focusing on outgoing edges from the ego node. The functionallity is the same as starting a BFS from the selected node, with depth K.
+OpenIDE-Module-Display-Category: Filter
